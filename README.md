@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Derda Karaaslan</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Abdurrahman+Derda+Karaaslan;You+can+contact+me" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Abdurrahman+Derda+Karaaslan;You+can+contact+me" alt="Typing SVG" width="400"/>
 </div>
 
 
