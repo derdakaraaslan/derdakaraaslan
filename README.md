@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Derda Karaaslan</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Abdurrahman+Derda+Karaaslan;You+can+contact+me" alt="Typing SVG" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Abdurrahman+Derda+Karaaslan;You+can+contact+me" alt="Typing SVG"/>
 </div>
 
 
 <br>
 
-<p align="right"><img align="right" src="https://github.com/derdakaraaslan/derdakaraaslan/blob/main/animation_500_kxa883sd.gif" alt="Derda Karaaslan" /></p>
+<p align="right"><img align="right" src="https://github.com/derdakaraaslan/derdakaraaslan/blob/main/animation_500_kxa883sd.gif" alt="Derda Karaaslan"  width="400"/></p>
 
 
 - 🎓 I graduated from Gazi University Computer Engineering Department with High Honors.
