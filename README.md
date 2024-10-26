@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github.com/derdakaraaslan/derdakaraaslan/blob/main/animation_500_kxa883sd.gif" alt="Derda Karaaslan" /></p>
+<div align="center"><img align="center" src="https://github.com/derdakaraaslan/derdakaraaslan/blob/main/animation_500_kxa883sd.gif" alt="Derda Karaaslan" /></div>
 
 
 - 🎓 I graduated from Gazi University Computer Engineering Department with High Honors.
