@@ -24,7 +24,7 @@
       alt="derda karaaslan" height="30" width="40" /></a>
   <a href="https://t.me/aderdakaraaslan" target="blank"><img align="center"
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="derda karaaslan" height="30" width="40" /></a>
+      alt="derda karaaslan" height="30" /></a>
 </p>
 
 <br>
